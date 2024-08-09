@@ -373,6 +373,7 @@ color: #d3e3f0;
 .contact form .btn{
     margin-top: 2rem;
     cursor: pointer;
+    color: var(--snd-bg-color);
 }
 
 footer{
