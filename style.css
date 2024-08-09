@@ -81,7 +81,7 @@ section{
 
 .home-container h3 {
    
-    font-size: 2.6rem;
+    font-size: 1.6rem;
     font-weight: 700;
 }
 
@@ -180,7 +180,7 @@ span {
 }
 
 .about-content p{
-    font-size: 1.6rem;
+    font-size: 2.6rem;
     margin: 2rem 0 3rem;
 }
 
@@ -202,7 +202,7 @@ span {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    font-weight: 600;
+    font-weight: 800;
     padding: .5rem 1rem;
     margin-bottom: 2rem;
     border-radius: .5rem;
@@ -216,9 +216,9 @@ span {
 }
 
 .skills-icon{
-font-size: 2rem;
+font-size: 3rem;
 margin-right: 1rem;
-color: #59B2f4;
+color: #d3e3f0;
 }
 
 .skills-names{

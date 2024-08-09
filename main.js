@@ -50,6 +50,8 @@ window.onscroll = () => {
      ScrollReveal().reveal('.home-img .skills-container, .project-box, .contact form', { origin: 'button' });
      ScrollReveal().reveal('.home-container h1, .about-img', { origin: 'left'});
      ScrollReveal().reveal('.home-container p, .about-content', { origin: 'right' });
+     ScrollReveal().reveal('.skills-container i, .skils-percentage', { origin: 'right' });
+     
 
           /*-------------------------------- typed js --------------------------------*/
 const typed = new Typed('.multiple-text',{
