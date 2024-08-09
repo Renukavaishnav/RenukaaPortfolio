@@ -65,7 +65,7 @@ const typed = new Typed('.multiple-text', {
 /*-------------------------------- Email js --------------------------------*/
 
 
-emailjs.init('IgJUTI7M001WGwS_k'); // Replace with your actual Public Key
+emailjs.init('IgJUTI7M001WGwS_k'); 
 
 document.getElementById('contactForm').addEventListener('submit', function (event) {
   event.preventDefault(); // Prevent the default form submission
