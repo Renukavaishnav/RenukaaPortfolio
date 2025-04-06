@@ -184,17 +184,28 @@ span {
     margin: 2rem 0 3rem;
 }
 
+#SKILLS {
+    margin-bottom: 1rem;
+}
+
+.section-title{
+     font-size: 2rem;
+}
+
 .skills-container{
     row-gap: 2rem;
     text-align: center;
 }
 
 .skills-subtitle{
-    margin-bottom: 1rem;
+    margin-bottom: 2.5rem;
+    font-size: 3.5rem;
 }
 
 .skills-text{
     margin-top: 2rem;
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
 }
 
 .skills-data{
@@ -202,7 +213,7 @@ span {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    font-weight: 800;
+    font-weight: 900;
     padding: .5rem 1rem;
     margin-bottom: 2rem;
     border-radius: .5rem;
@@ -210,13 +221,13 @@ span {
 }
 
 .skilss-data i{
-    font-size: 2rem;
+    font-size: 3rem;
     margin-right: 1rem;
     color: rgb(25, 170, 206);
 }
 
 .skills-icon{
-font-size: 3rem;
+font-size: 4rem;
 margin-right: 1rem;
 color: #d3e3f0;
 }
@@ -224,6 +235,7 @@ color: #d3e3f0;
 .skills-names{
  display: flex;
  align-items: center;
+ font-size: 1.3rem;
 }
 
 .skills-bar{
@@ -236,24 +248,36 @@ color: #d3e3f0;
     z-index: -10;
 }
 
-.skill-html{
-    width:95%;
-}
-
-.skill-css{
-    width:75%;
-}
-
-.skill-js{
-    width:65%;
+.skill-HC{
+    width:85%;
 }
 
 .skill-java{
-    width:50%;
+    width:70%;
 }
 
-.skill-sql{
+.skill-MySQL{
     width:90%;
+}
+
+.skill-linux{
+    width:67%;
+}
+
+.skill-git{
+    width:90%;
+}
+
+.skill-jenkins{
+    width:70%;
+}
+
+.skill-docker{
+    width:80%;
+}
+
+.skill-aws{
+    width:55%;
 }
 
 .project{
@@ -386,6 +410,7 @@ footer{
 
 .footer-text{
     font-size: 1.8rem;
+
 }
 .footer-iconTop{
     display: inline-flex;
